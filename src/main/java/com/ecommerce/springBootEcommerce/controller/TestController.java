@@ -1,5 +1,4 @@
-package com.login.security.controllers;
-
+package com.ecommerce.springBootEcommerce.controller;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
